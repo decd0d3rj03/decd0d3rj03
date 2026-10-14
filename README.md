@@ -5,12 +5,11 @@
 # 👋 SUP, I'm Joey — aka TechQmen!
 
 💻 **Frontend Developer | Embedded Systems Enthusiast | Aspiring Penetration Tester**
-
+<strong>
 Welcome to my corner of GitHub! I'm a tech enthusiast who loves exploring how software and hardware work together. From building interactive websites to experimenting with microcontrollers, I'm always curious about what I can create, break, fix lmao.
-
+<strong>
 > *Curious mind. Builder's mindset. Always leveling up.* ⚡
 
- 💫 About Me:
  👨‍💻 About Me<br><br>I'm **Joey Danielle**, also known online as **TechQmen**. I'm a **Frontend Web Developer focused on HTML, CSS, and JavaScript**, with an interest in C++ programming, embedded systems, and microcontroller development.<br><br>### ⚡ Fields & Technologies<br>- 🌐 **Frontend Web Development:** HTML, CSS, JavaScript<br>- 💻 **Programming:** C++<br>- 🔌 **Embedded Systems:** ESP32, microcontrollers, hardware projects<br>- 🛡️ **Cybersecurity:** Penetration testing and ethical hacking<br><br>### 🚀 Currently<br>Learning, building projects, experimenting with hardware, and improving my skills across web development and embedded systems.
 
  🌐 Socials:
