@@ -27,7 +27,7 @@ Welcome to my corner of GitHub! I'm a tech enthusiast who loves exploring how so
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,cpp,lua,raspberrypi,platformio,github,vscode,git,xfce,itch,blender,canva,steam" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,cpp,lua,raspberrypi,github,vscode,git,blender" />
 </p>
 
 <br>
