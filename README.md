@@ -4,15 +4,6 @@
 
 Welcome to my corner of GitHub! I'm a tech enthusiast who loves exploring how software and hardware work together. From building interactive websites to experimenting with microcontrollers, I'm always curious about what I can create, break, fix, and learn along the way.
 
-### ⚡ What I'm Into
-- 🌐 **Frontend Development** — HTML, CSS, and JavaScript
-- 🔌 **Embedded Systems** — C++, ESP32, and microcontroller projects
-- 🛡️ **Cybersecurity** — Learning penetration testing and ethical hacking in authorized environments
-- 🧠 **Problem Solving** — Exploring how technology works beneath the surface
-
-### 🛠️ My Tech Stack
-`HTML` `CSS` `JavaScript` `C++` `ESP32`
-
 ### 🚀 My Goal
 I'm constantly learning, experimenting, and building projects that combine code, electronics, and creativity. My goal is to keep improving my skills, develop useful tools, and turn ideas into real-world projects.
 
@@ -21,7 +12,7 @@ I'm constantly learning, experimenting, and building projects that combine code,
 📡 **Connect, explore my projects, and follow my journey as I build my way deeper into tech!**
 
 # 💫 About Me:
-## 👨‍💻 About Me<br><br>I'm **Joey Danielle**, also known online as **TechQmen**. I'm a **Frontend Web Developer focused on HTML, CSS, and JavaScript**, with an interest in C++ programming, embedded systems, and microcontroller development.<br><br>I enjoy building websites, experimenting with hardware, and exploring how software interacts with physical devices. I'm particularly interested in working with microcontrollers like the **ESP32** and developing projects that combine programming and electronics.<br><br>### ⚡ Fields & Technologies<br>- 🌐 **Frontend Web Development:** HTML, CSS, JavaScript<br>- 💻 **Programming:** C++<br>- 🔌 **Embedded Systems:** ESP32, microcontrollers, hardware projects<br>- 🛡️ **Cybersecurity:** Penetration testing and ethical hacking<br><br>### 🚀 Currently<br>Learning, building projects, experimenting with hardware, and improving my skills across web development and embedded systems.
+## 👨‍💻 About Me<br><br>I'm **Joey Danielle**, also known online as **TechQmen**. I'm a **Frontend Web Developer focused on HTML, CSS, and JavaScript**, with an interest in C++ programming, embedded systems, and microcontroller development.<br><br>### ⚡ Fields & Technologies<br>- 🌐 **Frontend Web Development:** HTML, CSS, JavaScript<br>- 💻 **Programming:** C++<br>- 🔌 **Embedded Systems:** ESP32, microcontrollers, hardware projects<br>- 🛡️ **Cybersecurity:** Penetration testing and ethical hacking<br><br>### 🚀 Currently<br>Learning, building projects, experimenting with hardware, and improving my skills across web development and embedded systems.
 
 
 ## 🌐 Socials:
