@@ -1,77 +1,113 @@
-<p align="center">
-  <img src="https://w0.peakpx.com/wallpaper/4/37/HD-wallpaper-anime-eye-close-up-blue-eye-shiny-anime.jpg" width="100%" alt="Blue anime eye banner" />
+ <p align="center">
+  <img src="https://w0.peakpx.com/wallpaper/4/37/HD-wallpaper-anime-eye-close-up-blue-eye-shiny-anime.jpg" width="140%" height="340" alt="Blue anime eye banner" />
 </p>
-
-<h1 align="center" style="color: #000080;">👋 SUP, I'm Joey — aka TechQmen!</h1>
-
-<h3 align="center" style="color: #000080;">💻 Frontend Developer | Embedded Systems Enthusiast | Aspiring Penetration Tester</h3>
-
-<p style="color: #000080;">
-Welcome to my corner of GitHub! I'm a tech enthusiast who loves exploring how software and hardware work together. From building interactive websites to experimenting with microcontrollers, I'm always curious about what I can create, break, fix lmao.
-</p>
-
-<p align="center">
-  <strong><em>Curious mind. Builder's mindset. Always leveling up. ⚡</em></strong>
-</p>
-
-<h2 style="color: #000080;">👨‍💻 About Me</h2>
-
-<p style="color: #000080;">
-I'm <strong>Joey Danielle</strong>, also known online as <strong>TechQmen</strong>. I'm a <strong>Frontend Web Developer focused on HTML, CSS, and JavaScript</strong>, with an interest in C++ programming, embedded systems, and microcontroller development.
-</p>
-
-<h3 style="color: #000080;">⚡ Fields &amp; Technologies</h3>
-
-<ul>
-  <li>🌐 <strong>Frontend Web Development:</strong> HTML, CSS, JavaScript</li>
-  <li>💻 <strong>Programming:</strong> C++</li>
-  <li>🔌 <strong>Embedded Systems:</strong> ESP32, microcontrollers, hardware projects</li>
-  <li>🛡️ <strong>Cybersecurity:</strong> Penetration testing and ethical hacking</li>
-</ul>
-
-<h3 style="color: #000080;">🚀 Currently</h3>
-
-<p style="color: #000080;">
-Learning, building projects, experimenting with hardware, and improving my skills across web development and embedded systems.
-</p>
-
-<h2 style="color: #000080;">🌐 Socials</h2>
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AlbosJoey) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yeoj._) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Acceptable_Travel359) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tqqmen) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Tqqmen) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:albosjoey22@gmail.com)
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000080&center=true&vCenter=true&width=500&lines=Software+Developer;Web+Developer;Software+Engineer;Front+End+Developer" width="500" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=000080&center=true&vCenter=true&width=650&lines=SUP%2C+I'm+Joey+%E2%80%94+aka+TechQmen!" alt="SUP, I'm Joey — aka TechQmen!" />
 </h1>
 
-<h2 align="center" style="color: #000080;">Languages and Tools</h2>
-
-<br>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,cpp,lua,raspberrypi,github,vscode,git,blender" />
+  <img src="https://img.shields.io/badge/Frontend-Developer-000080?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Embedded-Systems-000080?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Penetration-Testing-000080?style=for-the-badge" />
 </p>
 
-<br>
+<p align="center">
+  <em>Curious mind. Builder's mindset. Always leveling up. ⚡</em>
+</p>
+
+---
+
+## 💫 About Me
+
+I'm **Joey Danielle**, also known online as **TechQmen**. I'm a frontend web developer focused on **HTML, CSS, and JavaScript**, with an interest in C++, embedded systems, and microcontroller development.
+
+I enjoy exploring how software and hardware work together. From building websites to experimenting with microcontrollers like the ESP32, I'm always curious about what I can create, break, fix, and learn.
+
+### ⚡ Fields & Technologies
+
+- 🌐 **Frontend Web Development:** HTML, CSS, JavaScript
+- 💻 **Programming:** C++
+- 🔌 **Embedded Systems:** ESP32, microcontrollers, hardware projects
+- 🛡️ **Cybersecurity:** Penetration testing and ethical hacking
+
+### 🚀 Currently
+
+Learning, building projects, experimenting with hardware, and improving my skills across web development and embedded systems.
+
+---
+
+## 🌐 Socials
+
+<p align="left">
+  <a href="https://facebook.com/AlbosJoey"><img src="https://img.shields.io/badge/Facebook-000080?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/yeoj._"><img src="https://img.shields.io/badge/Instagram-000080?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://reddit.com/user/Acceptable_Travel359"><img src="https://img.shields.io/badge/Reddit-000080?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
+  <a href="https://tiktok.com/@tqqmen"><img src="https://img.shields.io/badge/TikTok-000080?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="https://youtube.com/@Tqqmen"><img src="https://img.shields.io/badge/YouTube-000080?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="mailto:albosjoey22@gmail.com"><img src="https://img.shields.io/badge/Email-000080?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
+
+## 💻 Languages and Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,cpp,lua,raspberrypi,github,vscode,git,blender" alt="Tech stack icons" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-000080?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-000080?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-000080?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-000080?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-000080?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-000080?style=flat-square&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-000080?style=flat-square&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/PlatformIO-000080?style=flat-square&logo=platformio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-000080?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-000080?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-000080?style=flat-square&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blender-000080?style=flat-square&logo=blender&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=decd0d3rj03&theme=transparent&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=decd0d3rj03&theme=transparent&hide_border=true" width="48%" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=decd0d3rj03&theme=transparent&title_color=000080&text_color=000080&icon_color=000080&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=decd0d3rj03&theme=transparent&ring=000080&fire=000080&currStreakLabel=000080&sideLabels=000080&currStreakNum=000080&sideNums=000080&dates=000080&hide_border=true" width="48%" alt="GitHub Streak Stats" />
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Jomerubaldo/Jomerubaldo/output/snake.svg" alt="GitHub Snake" width="100%" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=decd0d3rj03&layout=compact&theme=transparent&title_color=000080&text_color=000080&hide_border=true" width="45%" alt="Most Used Languages" />
 </p>
 
-<h2 align="center" style="color: #000080;">💰 Support My Work</h2>
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Jomerubaldo/Jomerubaldo/output/snake.svg" alt="GitHub Contribution Snake" width="100%" />
+</p>
+
+---
+
+## 💰 Support My Work
 
 <p align="center">
   If you enjoy my projects, consider buying me a coffee! ☕
-  <br><br>
+  <br /><br />
   <a href="https://buymeacoffee.com/tqmen">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" />
+    <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-000080?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me a Coffee" />
   </a>
 </p>
 
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=decd0d3rj03&style=flat-square&color=000080&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <em>Building my future, one project at a time. 💙</em>
+</p>
