@@ -1,15 +1,15 @@
  <p align="center">
-  <img src="https://w0.peakpx.com/wallpaper/4/37/HD-wallpaper-anime-eye-close-up-blue-eye-shiny-anime.jpg" width="140%" height="340" alt="Blue anime eye banner" />
+  <img src="https://w0.peakpx.com/wallpaper/4/37/HD-wallpaper-anime-eye-close-up-blue-eye-shiny-anime.jpg" width="140%" weight="340" alt="Blue anime eye banner" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=172554&center=true&vCenter=true&width=650&lines=SUP%2C+I'm+Joey+%E2%80%94+aka+TechQmen!" alt="SUP, I'm Joey — aka TechQmen!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=345995&center=true&vCenter=true&width=650&lines=SUP%2C+I'm+Joey+%E2%80%94+aka+TechQmen!" alt="SUP, I'm Joey — aka TechQmen!" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-Developer-172554?style=for-the-badge" alt="Frontend Developer" />
-  <img src="https://img.shields.io/badge/Embedded-Systems-172554?style=for-the-badge" alt="Embedded Systems" />
-  <img src="https://img.shields.io/badge/Penetration-Testing-172554?style=for-the-badge" alt="Penetration Testing" />
+  <img src="https://img.shields.io/badge/Frontend-Developer-345995?style=for-the-badge" alt="Frontend Developer" />
+  <img src="https://img.shields.io/badge/Embedded-Systems-345995?style=for-the-badge" alt="Embedded Systems" />
+  <img src="https://img.shields.io/badge/Penetration-Testing-345995?style=for-the-badge" alt="Penetration Testing" />
 </p>
 
 <p align="center">
@@ -40,12 +40,12 @@ Learning, building projects, experimenting with hardware, and improving my skill
 ## 🌐 Socials
 
 <p align="left">
-  <a href="https://facebook.com/AlbosJoey"><img src="https://img.shields.io/badge/Facebook-172554?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://instagram.com/yeoj._"><img src="https://img.shields.io/badge/Instagram-172554?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://reddit.com/user/Acceptable_Travel359"><img src="https://img.shields.io/badge/Reddit-172554?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
-  <a href="https://tiktok.com/@tqqmen"><img src="https://img.shields.io/badge/TikTok-172554?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-  <a href="https://youtube.com/@Tqqmen"><img src="https://img.shields.io/badge/YouTube-172554?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="mailto:albosjoey22@gmail.com"><img src="https://img.shields.io/badge/Email-172554?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://facebook.com/AlbosJoey"><img src="https://img.shields.io/badge/Facebook-345995?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/yeoj._"><img src="https://img.shields.io/badge/Instagram-345995?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://reddit.com/user/Acceptable_Travel359"><img src="https://img.shields.io/badge/Reddit-345995?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
+  <a href="https://tiktok.com/@tqqmen"><img src="https://img.shields.io/badge/TikTok-345995?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="https://youtube.com/@Tqqmen"><img src="https://img.shields.io/badge/YouTube-345995?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="mailto:albosjoey22@gmail.com"><img src="https://img.shields.io/badge/Email-345995?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -57,18 +57,18 @@ Learning, building projects, experimenting with hardware, and improving my skill
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML-172554?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS-172554?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-172554?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-172554?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/C++-172554?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Lua-172554?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-172554?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
-  <img src="https://img.shields.io/badge/PlatformIO-172554?style=flat-square&logo=platformio&logoColor=white" alt="PlatformIO" />
-  <img src="https://img.shields.io/badge/Git-172554?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-172554?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-172554?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Blender-172554?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/HTML-345995?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-345995?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/JavaScript-345995?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-345995?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/C++-345995?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Lua-345995?style=flat-square&logo=lua&logoColor=white" alt="Lua" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-345995?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/PlatformIO-345995?style=flat-square&logo=platformio&logoColor=white" alt="PlatformIO" />
+  <img src="https://img.shields.io/badge/Git-345995?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-345995?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-345995?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Blender-345995?style=flat-square&logo=blender&logoColor=white" alt="Blender" />
 </p>
 
 ---
@@ -76,12 +76,12 @@ Learning, building projects, experimenting with hardware, and improving my skill
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=decd0d3rj03&theme=transparent&title_color=172554&text_color=172554&icon_color=172554&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=decd0d3rj03&theme=transparent&ring=172554&fire=172554&currStreakLabel=172554&sideLabels=172554&currStreakNum=172554&sideNums=172554&dates=172554&hide_border=true" width="48%" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=decd0d3rj03&theme=transparent&title_color=345995&text_color=345995&icon_color=345995&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=decd0d3rj03&theme=transparent&ring=345995&fire=345995&currStreakLabel=345995&sideLabels=345995&currStreakNum=345995&sideNums=345995&dates=345995&hide_border=true" width="48%" alt="GitHub Streak Stats" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=decd0d3rj03&layout=compact&theme=transparent&title_color=172554&text_color=172554&hide_border=true" width="45%" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=decd0d3rj03&layout=compact&theme=transparent&title_color=345995&text_color=345995&hide_border=true" width="45%" alt="Most Used Languages" />
 </p>
 
 ---
@@ -100,12 +100,12 @@ Learning, building projects, experimenting with hardware, and improving my skill
   If you enjoy my projects, consider buying me a coffee! ☕
   <br /><br />
   <a href="https://buymeacoffee.com/tqmen">
-    <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-172554?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me a Coffee" />
+    <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-345995?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me a Coffee" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=decd0d3rj03&style=flat-square&color=172554&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=decd0d3rj03&style=flat-square&color=345995&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <p align="center">
