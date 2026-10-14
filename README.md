@@ -1,19 +1,13 @@
-# 👋 Hey, I'm Joey Danielle — aka TechQmen!
+# 👋SUP, I'm Joey — aka TechQmen!
 
 💻 **Frontend Developer | Embedded Systems Enthusiast | Aspiring Penetration Tester**
 
-Welcome to my corner of GitHub! I'm a tech enthusiast who loves exploring how software and hardware work together. From building interactive websites to experimenting with microcontrollers, I'm always curious about what I can create, break, fix, and learn along the way.
-
-### 🚀 My Goal
-I'm constantly learning, experimenting, and building projects that combine code, electronics, and creativity. My goal is to keep improving my skills, develop useful tools, and turn ideas into real-world projects.
+Welcome to my corner of GitHub! I'm a tech enthusiast who loves exploring how software and hardware work together. From building interactive websites to experimenting with microcontrollers, I'm always curious about what I can create, break, fix lmao.
 
 > *Curious mind. Builder's mindset. Always leveling up.* ⚡
 
-📡 **Connect, explore my projects, and follow my journey as I build my way deeper into tech!**
-
 # 💫 About Me:
 ## 👨‍💻 About Me<br><br>I'm **Joey Danielle**, also known online as **TechQmen**. I'm a **Frontend Web Developer focused on HTML, CSS, and JavaScript**, with an interest in C++ programming, embedded systems, and microcontroller development.<br><br>### ⚡ Fields & Technologies<br>- 🌐 **Frontend Web Development:** HTML, CSS, JavaScript<br>- 💻 **Programming:** C++<br>- 🔌 **Embedded Systems:** ESP32, microcontrollers, hardware projects<br>- 🛡️ **Cybersecurity:** Penetration testing and ethical hacking<br><br>### 🚀 Currently<br>Learning, building projects, experimenting with hardware, and improving my skills across web development and embedded systems.
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AlbosJoey) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yeoj._) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Acceptable_Travel359) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@tqqmen) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Tqqmen) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:albosjoey22@gmail.com) 
