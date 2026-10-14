@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="https://w0.peakpx.com/wallpaper/4/37/HD-wallpaper-anime-eye-close-up-blue-eye-shiny-anime.jpg" width="100%" alt="Blue anime eye banner" />
+  <img src="https://w0.peakpx.com/wallpaper/4/37/HD-wallpaper-anime-eye-close-up-blue-eye-shiny-anime.jpg" width="140%" height="340" alt="Blue anime eye banner" />
 </p>
 
 <h1 align="center">
