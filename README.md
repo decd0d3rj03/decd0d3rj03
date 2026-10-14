@@ -43,8 +43,6 @@ Welcome to my corner of GitHub! I'm a tech enthusiast who loves exploring how so
   <img src="https://raw.githubusercontent.com/Jomerubaldo/Jomerubaldo/output/snake.svg" alt="GitHub Snake" style="max-width: 100%;"/>
 </p>
 
----
-[![](https://komarev.com/ghpvc/?username=decd0d3rj03 &icon=8&color=1)](https://visitcount.itsvg.in)
 
    💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tqmen) 
