@@ -42,8 +42,8 @@ I enjoy exploring how software and hardware work together. From building website
 ## 🌐 Socials
 
 <p align="left">
-  <a href="https://facebook.com/AlbosJoey"><img src="https://img.shields.io/badge/Facebook-345995?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://instagram.com/yeoj._"><img src="https://img.shields.io/badge/Instagram-345995?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://facebook.com/Albos Joey"><img src="https://img.shields.io/badge/Facebook-345995?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://instagram.com/yeoj.dcdr"><img src="https://img.shields.io/badge/Instagram-345995?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://reddit.com/user/Acceptable_Travel359"><img src="https://img.shields.io/badge/Reddit-345995?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" /></a>
   <a href="https://tiktok.com/@tqqmen"><img src="https://img.shields.io/badge/TikTok-345995?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
   <a href="https://youtube.com/@Tqqmen"><img src="https://img.shields.io/badge/YouTube-345995?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
