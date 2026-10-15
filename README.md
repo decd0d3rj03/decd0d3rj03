@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=345995&center=true&vCenter=true&width=650&lines=SUP%2C+I'm+Joey+%E2%80%94+aka+TechQmen!" alt="SUP, I'm Joey — aka TechQmen!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=345995&center=true&vCenter=true&width=650&lines=SUP:D%2C+I'm+Joey+%E2%80%94+aka+Tqmen!" alt="SUP :D, I'm Joey — aka Tqmen!" />
 </h1>
 
 <p align="center">
