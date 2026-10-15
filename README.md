@@ -34,7 +34,7 @@ I enjoy exploring how software and hardware work together. From building website
 - 🛡️ **Cybersecurity:** Penetration testing and ethical hacking
   
 <h1 align="center">
-  <mark><strong>@Tqmen</strong></mark>
+  $\textcolor{blue}{\textsf{@Tqmen}}$
 </h1>
 
 ---
