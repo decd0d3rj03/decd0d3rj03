@@ -34,7 +34,7 @@ I enjoy exploring how software and hardware work together. From building website
 - 🛡️ **Cybersecurity:** Penetration testing and ethical hacking
   
 <h1 align="center">
-  <img src="./name-badge.svg" alt="@Tqmen" width="160" />
+  <img src="https://img.shields.io/badge/@Tqmen-345995?style=for-the-badge" alt="@Tqmen" />
 </h1>
 
 ---
