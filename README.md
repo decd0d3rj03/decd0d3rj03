@@ -1,4 +1,6 @@
-https://i.pinimg.com/originals/b9/84/85/b984852488484b693ced0cee7578016c.gif
+<p align="center">
+  <img src="./blueeyeforgithub.gif" width="800" />
+</p>
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=345995&center=true&vCenter=true&width=650&lines=SUP%2C+I'm+Joey+%E2%80%94+aka+TechQmen!" alt="SUP, I'm Joey — aka TechQmen!" />
