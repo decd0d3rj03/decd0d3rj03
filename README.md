@@ -1,6 +1,4 @@
- <p align="center">
-  <img src="https://w0.peakpx.com/wallpaper/4/37/HD-wallpaper-anime-eye-close-up-blue-eye-shiny-anime.jpg" width="140%" height="340" alt="Blue anime eye banner" />
-</p>
+https://i.pinimg.com/originals/b9/84/85/b984852488484b693ced0cee7578016c.gif
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=345995&center=true&vCenter=true&width=650&lines=SUP%2C+I'm+Joey+%E2%80%94+aka+TechQmen!" alt="SUP, I'm Joey — aka TechQmen!" />
@@ -33,9 +31,9 @@ I enjoy exploring how software and hardware work together. From building website
 - 🔌 **Embedded Systems:** ESP32, microcontrollers, hardware projects
 - 🛡️ **Cybersecurity:** Penetration testing and ethical hacking
   
-<p align="center">
-  <mark><strong>💫 About Me</strong></mark>
-</p>
+<h1 align="center">
+  <mark><strong>@Tqmen</strong></mark>
+</h1>
 
 ---
 
