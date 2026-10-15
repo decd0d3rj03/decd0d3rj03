@@ -32,10 +32,10 @@ I enjoy exploring how software and hardware work together. From building website
 - 💻 **Programming:** C++
 - 🔌 **Embedded Systems:** ESP32, microcontrollers, hardware projects
 - 🛡️ **Cybersecurity:** Penetration testing and ethical hacking
-
-### 🚀 Currently
-
-Learning, building projects, experimenting with hardware, and improving my skills across web development and embedded systems.
+  
+<p align="center">
+  <mark><strong>💫 About Me</strong></mark>
+</p>
 
 ---
 
