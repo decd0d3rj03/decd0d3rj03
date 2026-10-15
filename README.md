@@ -17,9 +17,8 @@
 </p>
 
 ---
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=💫%20About%20Me&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11&height=140&section=header&text=💫%20About%20Me&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 I'm **Joey Danielle**, also known online as **TechQmen**. I'm a frontend web developer focused on **HTML, CSS, and JavaScript**, with an interest in C++, embedded systems, and microcontroller development.
