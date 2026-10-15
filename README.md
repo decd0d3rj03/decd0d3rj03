@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./blueeyeforgithub.gif" width="800" />
+  <img src="./blueeyeforgithub.gif" width="100%" height="340"/>
 </p>
 
 <h1 align="center">
