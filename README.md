@@ -18,7 +18,9 @@
 
 ---
 
-## 💫 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=8E2DE2&center=true&vCenter=true&width=435&lines=💫+About+Me" alt="About Me">
+</p>
 
 I'm **Joey Danielle**, also known online as **TechQmen**. I'm a frontend web developer focused on **HTML, CSS, and JavaScript**, with an interest in C++, embedded systems, and microcontroller development.
 
